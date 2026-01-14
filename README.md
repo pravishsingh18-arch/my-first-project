@@ -1,2 +1,4 @@
-# my-first-project
-my first github project for learning
+my first github project
+name: pravish singh
+learning git& github
+this is my first repository
